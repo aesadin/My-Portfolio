@@ -40,3 +40,9 @@ body {
   width: 300px;
   float: right;
 }
+
+.list {
+  text-align: left;
+  border: 2px dotted black;
+  padding: 3px;
+}
