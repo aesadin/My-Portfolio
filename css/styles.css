@@ -9,15 +9,20 @@ img {
   display: block;
   width: 25%;
   border-radius: 70%;
-  border: 8px double black;
-  padding: 8px;
+  border: 5px double black;
+  padding: 12px;
 
 }
 
 body {
   background-color: lavender;
+  font-style: "Times New Roman", Times;
 
 
+}
+
+.font {
+  font-family: "Courier New", Courier, monospace;
 }
 
 .about {
