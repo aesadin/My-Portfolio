@@ -10,7 +10,9 @@ This website is for the authors personal portfolio. It has an about me section, 
 
 ## Setup/Installation Requirements
 
-* _clone repository_
+* _open git_
+* _use git clone, copy and paste github URL_
+* _clone repository to your local computer_
 * _open web browser_
 * _copy and paste URL into browser_
 * _hit enter_
