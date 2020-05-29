@@ -46,3 +46,10 @@ body {
   border: 2px dotted black;
   padding: 3px;
 }
+
+.p {
+  text-align: left;
+  border: 2px dotted black;
+  padding: 3px;
+  padding-bottom: 2px;
+}
