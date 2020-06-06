@@ -1,6 +1,7 @@
-# Hello World
+# My First Website
 
-#### _Greetings from around the World, May 26th 2020_
+#### _A Little Bit About Me_ 
+May 29, 2020
 
 #### By _Allison Sadin_
 
@@ -10,10 +11,17 @@ This website is for the authors personal portfolio. It has an about me section, 
 
 ## Setup/Installation Requirements
 
-* _clone repository_
-* _open web browser_
-* _copy and paste URL into browser_
-* _hit enter_
+#### Open by downloading:
+1. Download the repository onto your computer
+2. Drag and drop index.html in to your web browser from gh-pages: https://github.com/aesadin/My-Portfolio.git
+
+#### Open with Bash/GitBash:
+1. _open your bash terminal_
+2. _use git clone, copy and paste github URL using clone or download green button: https://github.com/aesadin/My-Portfolio.git _
+3. _Navigate into the 'My-Portfolio' directory using cd My-Portfolio_
+4. _open in Visual Studio code using 'code .' command_
+5. _Open index.html in Chrome or preferred browser: 'open index.html'_
+
 
 
 
@@ -31,6 +39,6 @@ at allisonsadin@gmail.com_
 
 ### License
 
-Copyright (c) 2020 **_Allison Sadin and Megan Hepner_**
+Copyright (c) 2020 **_Allison Sadin_**
 
 **_This software is licensed under the MIT license_**
