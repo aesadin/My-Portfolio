@@ -44,6 +44,10 @@ body {
   float: right;
 }
 
+#tookie {
+  color: deeppink;
+}
+
 .projects {
   text-align: left;
   margin: 12px;
